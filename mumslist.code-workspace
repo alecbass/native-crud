@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "mumslist-mob/node_modules/typescript/lib",
+    "editor.tabSize": 2
+  }
+}

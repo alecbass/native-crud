@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/alec/mumslist/mumslist/mumslist-mob/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/alec/.gradle/caches/transforms-2/files-2.1/38fcdb3e6c30a8dd3dec4b7731e34f5d/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

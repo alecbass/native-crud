@@ -1,0 +1,4 @@
+#Sun Dec 15 13:41:52 AEST 2019
+base.0=/home/alec/mumslist/mumslist/mumslist-mob/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [:react-native-sound] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:@react-native-community_cameraroll] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fs] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-permissions] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-sound-player] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-sound-player/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/alec/.gradle/caches/transforms-2/files-2.1/ee39998f9750b12f075ed4b92054bc41/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/alec/.gradle/caches/transforms-2/files-2.1/fb6bd1945ac91427acefc8d36444ad56/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/alec/.gradle/caches/transforms-2/files-2.1/38fcdb3e6c30a8dd3dec4b7731e34f5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/7e5fbb460eaa5553bcc2ce3fa7ff07a4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/357a977d491d95da4455ae327495d995/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/b42f3e02531339835f63c1eba105ff93/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/2d39cd86ba652936d08d7d89348c634f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/0a8c1af3addbe50ace119f38048572ed/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/cdcc4f7e83a8ee45bf9eebbd8a137cb6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5a9a1358bb04e72cfff281936ced7dbe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alec/.gradle/caches/transforms-2/files-2.1/a557244f3f9f434eddc2e1d0cf897e3f/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5cc6e49a01b3af86c6d4645ecce444c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/9adc44deff1153351affed6b8e445c91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/aaef53ccc4dd02a878666e56449538c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/65ba7ecc06419c670558087b5cb75444/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/alec/.gradle/caches/transforms-2/files-2.1/6667c684726a0ce652564760daa7560e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/7b0f67936fa6495e3dccf9f6bb2ee809/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/695513046f1dca232485e3a1a6997c25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/4f2a114d01f3d288723d8eb8b736ecff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/38211358e132ac0b67e5ff6a41792842/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/8d86eecc031493b24311eb5b7448c3bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/ae33d9ce623db842727b382b123c183e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/75685a4a239171adf7a1d4581973dfe1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/452bc74e1bbcd608776d10b0f05fc2b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/alec/.gradle/caches/transforms-2/files-2.1/b4d7ad9b155beb883d0bc735e1dbac55/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/f683f0a694dbfae58dbcb3ea5dc5a240/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/638f67bf2a0bb1b06fda47c6793c2f03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/43476efe8c5c5d3177718fc3c9f8194c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/fbce3043cada5332d72f6a951c9e9a35/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/3f86257370fca06c2ebd2984678d0772/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5451dfdd4e64472b4b508037791697cb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/38998fdefe68d63348603964741e80f9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/7dc489b7dfdb2a343f35d25861f0d84e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5d39b1a31732de28a0b2e93f15914edd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/13b569249badc81b0116515ae712ff05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/c4e8e14a3a3e847e48242646934a7720/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/cba5d037d09727b13291108baf72b160/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [:react-native-fs] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-fs] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:9:5-27:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/alec/.gradle/caches/transforms-2/files-2.1/ee39998f9750b12f075ed4b92054bc41/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/alec/.gradle/caches/transforms-2/files-2.1/ee39998f9750b12f075ed4b92054bc41/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alec/.gradle/caches/transforms-2/files-2.1/a557244f3f9f434eddc2e1d0cf897e3f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alec/.gradle/caches/transforms-2/files-2.1/a557244f3f9f434eddc2e1d0cf897e3f/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/alec/.gradle/caches/transforms-2/files-2.1/b4d7ad9b155beb883d0bc735e1dbac55/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/alec/.gradle/caches/transforms-2/files-2.1/b4d7ad9b155beb883d0bc735e1dbac55/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/f683f0a694dbfae58dbcb3ea5dc5a240/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/f683f0a694dbfae58dbcb3ea5dc5a240/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/alec/.gradle/caches/transforms-2/files-2.1/b4d7ad9b155beb883d0bc735e1dbac55/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:11:7-39
+	android:roundIcon
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:13:7-52
+	android:icon
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:name
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.mumslist.MainActivity
+ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:16:7-25:18
+	android:label
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:windowSoftInputMode
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:19:9-79
+	android:name
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml:26:17-81
+uses-sdk
+INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-sound] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:@react-native-community_cameraroll] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_cameraroll] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-fs/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-permissions] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-sound-player] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-sound-player/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound-player] /home/alec/mumslist/mumslist/mumslist-mob/node_modules/react-native-sound-player/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/alec/.gradle/caches/transforms-2/files-2.1/ee39998f9750b12f075ed4b92054bc41/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/alec/.gradle/caches/transforms-2/files-2.1/ee39998f9750b12f075ed4b92054bc41/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/alec/.gradle/caches/transforms-2/files-2.1/fb6bd1945ac91427acefc8d36444ad56/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/alec/.gradle/caches/transforms-2/files-2.1/fb6bd1945ac91427acefc8d36444ad56/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/alec/.gradle/caches/transforms-2/files-2.1/38fcdb3e6c30a8dd3dec4b7731e34f5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/alec/.gradle/caches/transforms-2/files-2.1/38fcdb3e6c30a8dd3dec4b7731e34f5d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/7e5fbb460eaa5553bcc2ce3fa7ff07a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/7e5fbb460eaa5553bcc2ce3fa7ff07a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/357a977d491d95da4455ae327495d995/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/357a977d491d95da4455ae327495d995/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/b42f3e02531339835f63c1eba105ff93/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/b42f3e02531339835f63c1eba105ff93/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/2d39cd86ba652936d08d7d89348c634f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/2d39cd86ba652936d08d7d89348c634f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/0a8c1af3addbe50ace119f38048572ed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/0a8c1af3addbe50ace119f38048572ed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/cdcc4f7e83a8ee45bf9eebbd8a137cb6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/cdcc4f7e83a8ee45bf9eebbd8a137cb6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5a9a1358bb04e72cfff281936ced7dbe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5a9a1358bb04e72cfff281936ced7dbe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alec/.gradle/caches/transforms-2/files-2.1/a557244f3f9f434eddc2e1d0cf897e3f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/alec/.gradle/caches/transforms-2/files-2.1/a557244f3f9f434eddc2e1d0cf897e3f/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5cc6e49a01b3af86c6d4645ecce444c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5cc6e49a01b3af86c6d4645ecce444c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/9adc44deff1153351affed6b8e445c91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/9adc44deff1153351affed6b8e445c91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/aaef53ccc4dd02a878666e56449538c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/aaef53ccc4dd02a878666e56449538c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/65ba7ecc06419c670558087b5cb75444/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/65ba7ecc06419c670558087b5cb75444/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/alec/.gradle/caches/transforms-2/files-2.1/6667c684726a0ce652564760daa7560e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/alec/.gradle/caches/transforms-2/files-2.1/6667c684726a0ce652564760daa7560e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/7b0f67936fa6495e3dccf9f6bb2ee809/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/7b0f67936fa6495e3dccf9f6bb2ee809/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/695513046f1dca232485e3a1a6997c25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/695513046f1dca232485e3a1a6997c25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/4f2a114d01f3d288723d8eb8b736ecff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/4f2a114d01f3d288723d8eb8b736ecff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/38211358e132ac0b67e5ff6a41792842/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/38211358e132ac0b67e5ff6a41792842/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/8d86eecc031493b24311eb5b7448c3bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/8d86eecc031493b24311eb5b7448c3bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/ae33d9ce623db842727b382b123c183e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/ae33d9ce623db842727b382b123c183e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/75685a4a239171adf7a1d4581973dfe1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/75685a4a239171adf7a1d4581973dfe1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/452bc74e1bbcd608776d10b0f05fc2b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/452bc74e1bbcd608776d10b0f05fc2b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/alec/.gradle/caches/transforms-2/files-2.1/b4d7ad9b155beb883d0bc735e1dbac55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/alec/.gradle/caches/transforms-2/files-2.1/b4d7ad9b155beb883d0bc735e1dbac55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/f683f0a694dbfae58dbcb3ea5dc5a240/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/f683f0a694dbfae58dbcb3ea5dc5a240/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/638f67bf2a0bb1b06fda47c6793c2f03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/638f67bf2a0bb1b06fda47c6793c2f03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/43476efe8c5c5d3177718fc3c9f8194c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/43476efe8c5c5d3177718fc3c9f8194c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/fbce3043cada5332d72f6a951c9e9a35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/fbce3043cada5332d72f6a951c9e9a35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/3f86257370fca06c2ebd2984678d0772/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/3f86257370fca06c2ebd2984678d0772/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5451dfdd4e64472b4b508037791697cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5451dfdd4e64472b4b508037791697cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/38998fdefe68d63348603964741e80f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/38998fdefe68d63348603964741e80f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/7dc489b7dfdb2a343f35d25861f0d84e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/7dc489b7dfdb2a343f35d25861f0d84e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5d39b1a31732de28a0b2e93f15914edd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/5d39b1a31732de28a0b2e93f15914edd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/13b569249badc81b0116515ae712ff05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/13b569249badc81b0116515ae712ff05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/c4e8e14a3a3e847e48242646934a7720/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/c4e8e14a3a3e847e48242646934a7720/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/cba5d037d09727b13291108baf72b160/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/alec/.gradle/caches/transforms-2/files-2.1/cba5d037d09727b13291108baf72b160/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alec/mumslist/mumslist/mumslist-mob/android/app/src/main/AndroidManifest.xml

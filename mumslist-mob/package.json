@@ -1,0 +1,53 @@
+{
+  "name": "mumslist",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "_start": "react-native start --reset-cache --host 0.0.0.0",
+    "start": "yarn run _start",
+    "_android": "react-native run-android --deviceId ${id}",
+    "android:dev": "id=1a519b55 yarn run _android",
+    "android:dev-bundle": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res && yarn run android:dev",
+    "android:dev-emulator": "id=emulator-5554 yarn run _android",
+    "android:deva": "adb reverse tcp:8081 tcp:5037 && id=1a519b55 react-native run-android",
+    "_android:reverse": "adb -s ${id} reverse tcp:8081 tcp:8081 && adb -s ${id} reverse tcp:8000 tcp:8000",
+    "android:reverse": "id=1a519b55 yarn run _android:reverse",
+    "clearLocks": "find -name '*.lock' -exec rm -vfr \"{}\" \\;",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-community/cameraroll": "^1.3.0",
+    "react": "16.12.0",
+    "react-native": "0.61.5",
+    "react-native-fs": "^2.16.2",
+    "react-native-permissions": "^2.0.6",
+    "react-native-slider": "^0.11.0",
+    "react-native-sound": "^0.11.0",
+    "react-native-sound-player": "^0.10.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/runtime": "^7.5.0",
+    "@react-native-community/eslint-config": "^0.0.3",
+    "@types/jest": "^24.0.18",
+    "@types/react": "^16.9.2",
+    "@types/react-native": "^0.60.14",
+    "@types/react-test-renderer": "^16.9.0",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.6",
+    "typescript": "^3.7.2"
+  },
+  "jest": {
+    "preset": "react-native",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  }
+}
