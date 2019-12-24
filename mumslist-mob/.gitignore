@@ -10,6 +10,8 @@
 
 # production
 /build
+/app/build
+*/build
 
 # misc
 .DS_Store
@@ -21,3 +23,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+*.java
+*.bin
+*.lock
+*.gradle
+*.json
+generated.xml

@@ -17,7 +17,7 @@ import dad from "../images/dad.jpg";
 const ScreenRoot: React.FC = _ => {
   const [name, setName] = useState("");
   const [screen, setScreen] = useState<"base" | "upload" | "music" | "files">(
-    "files"
+    "upload"
   );
 
   function handleNameChange(e: string) {
